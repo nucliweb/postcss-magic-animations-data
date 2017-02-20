@@ -1,6 +1,6 @@
 {
   "name": "postcss-magic-animations-data",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Object with all animations for PostCSS Magic Animations",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nucliweb/postcss-magin-animations-data.git"
+    "url": "git+https://github.com/nucliweb/postcss-magic-animations-data.git"
   },
   "keywords": [
     "postcss",
@@ -24,7 +24,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nucliweb/postcss-magin-animations-data/issues"
+    "url": "https://github.com/nucliweb/postcss-magic-animations-data/issues"
   },
-  "homepage": "https://github.com/nucliweb/postcss-magin-animations-data#readme"
+  "homepage": "https://github.com/nucliweb/postcss-magic-animations-data#readme"
 }
