@@ -1,6 +1,6 @@
 {
   "name": "postcss-magic-animations-data",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Object with all animations for PostCSS Magic Animations",
   "main": "index.js",
   "scripts": {

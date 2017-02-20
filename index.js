@@ -63,4 +63,5 @@ module.exports = {
   'tinRightIn' : '@keyframes tinRightIn { 0% { opacity: 0; transform: scale(1, 1) translateX(900%); } 50%, 70%, 90% { opacity: 1; transform: scale(1.1, 1.1) translateX(0); } 60%, 80%, 100% { opacity: 1; transform: scale(1, 1) translateX(0);}}',
   'tinRightOut' : '@keyframes tinRightOut { 0%, 20%, 40%, 50% { opacity: 1; transform: scale(1, 1) translateX(0); } 10%, 30% { opacity: 1; transform: scale(1.1, 1.1) translateX(0); } 100% { opacity: 0; transform: scale(1, 1) translateX(900%);}}',
   'tinUpIn' : '@keyframes tinUpIn { 0% { opacity: 0; transform: scale(1, 1) translateY(-900%); } 50%, 70%, 90% { opacity: 1; transform: scale(1.1, 1.1) translateY(0); } 60%, 80%, 100% { opacity: 1; transform: scale(1, 1) translateY(0);}}',
-  'tinUpOut' : '@keyframes tinUpOut { 0%, 20%, 40%, 50% { opacity: 1; transform: scale(1, 1) translateY(0); } 10%, 30% { opacity: 1; transform: scale(1.1, 1.1) translateY(0); } 100% { opacity: 0; transform: scale(1, 1) translateY(-900%); } }}
+  'tinUpOut' : '@keyframes tinUpOut { 0%, 20%, 40%, 50% { opacity: 1; transform: scale(1, 1) translateY(0); } 10%, 30% { opacity: 1; transform: scale(1.1, 1.1) translateY(0); } 100% { opacity: 0; transform: scale(1, 1) translateY(-900%);}}'
+}
